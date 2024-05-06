@@ -64,7 +64,7 @@
             <img class="estudante-imagem" src="20221018_170044(2)_(1).jpg" alt="foto do joao">
             <h3 class="estudante-nome">joão</h3>
             <a href="https://github.com/FaustoMeursault"><img class="estudante-icone" src="github.png" alt="icone github"></a>
-            <a href="https://www.linkedin.com/in/mariageovanna"><img class="estudante-icone" src="download.png" alt="icone linkedin"></a>
+            <a href="https://www.linkedin.com/in/mariageovanna"><img class="estudante-icone" src="Denilson.jpg" alt="icone linkedin"></a>
             <a href="https://www.instagram.com/jp__peron?igsh=NXdsZmw0YW03dWZ3"><img class="estudante-icone" src="Instagram_icon.png.webp" alt="icone instagram"></a>
         </div>
         <div class="estudante-div">
@@ -72,7 +72,7 @@
             <h3 class="estudante-nome">rayssa</h3>
             <img class="estudante-icone" src="github.png" alt="icone github">
             <a href="https://www.linkedin.com/in/olhe/"><img class="estudante-icone" src="download.png" alt="icone linkedin"></a>
-            <a href="https://wa.me/44999995635"><img class="estudante-icone" src="" alt=""></a>
+            <a href="https://wa.me/44999995635"><img class="estudante-icone" src="" alt="icone Instagram_icon"></a>
             <a href="https://www.instagram.com/rayssa._sz?igsh=MWF4dTJ3bHVpNnMwYg=="><img class="estudante-icone" src="Instagram_icon.png.webp" alt="icone instagram"></a>
         </div>
         <span></span>
@@ -93,7 +93,7 @@
         </div>
         <div class="estudante-div">
             <img class="estudante-imagem" src="IMG-20240421-WA0103.jpg" alt="foto da heolisa">
-            <h3 class="estudante-nome">helolsa</h3>
+            <h3 class="estudante-nome">heolisa</h3>
             <a href="https://github.com/HelloWrr"><img class="estudante-icone" src="github.png" alt="icone github"></a>
             <a href="https://wa.me/qr/FN2F7TMREKQMM1"><img class="estudante-icone" src="download.png" alt="icone whatsapp"></a>
             <a href="https://www.instagram.com/hello_wrrr?igsh=Z2tmdmZocmdudTFs"><img class="estudante-icone" src="Instagram_icon.png.webp" alt="icone instagram"></a>
@@ -115,7 +115,7 @@
             <a href="https://www.instagram.com/thaispianucci/"><img class="estudante-icone" src="Instagram_icon.png.webp" alt="icone instagram"></a>
         </div>
         <div class="estudante-div">
-            <img class="estudante-imagem" src="emily.jpg" alt="foto da emily">
+            <img class="estudante-imagem" src="1 de abr. de 2024 às 17_27.jpg" alt="foto da emily">
             <h3 class="estudante-nome">emily</h3>
             <a href="https://github.com/emilypadilha28"><img class="estudante-icone" src="github.png" alt="icone github"></a>
             <a href="https://wa.me/998326659"><img class="estudante-icone" src="download.png" alt="icone whatsapp"></a>
@@ -136,4 +136,4 @@
         <img class="rodape-imagem"src="alurastart logo.png" alt="logo da alura start">
     </footer>
 </body>
-</html
+</html>

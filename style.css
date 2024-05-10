@@ -17,7 +17,7 @@ body {
 
 
 .cabecalho-imagem{
-    width: 15%;
+    width: 10%;
 }
 
 .cabecalho-lista-item{
@@ -83,6 +83,6 @@ body {
 
 .rodape-imagem{
     height: 55px;
-    padding: 1px 0;
+    padding: 14px 0;
    
 }
